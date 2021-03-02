@@ -267,7 +267,7 @@ The data that we will be retrieving to populate the sale table is currently stor
 
 7. Now we will need to define the destination dataset for our data. In this case we will be storing sale data in our SQL Pool. Create a new dataset by expanding the **+** button on the **Data** blade and selecting **Integration dataset**.
 
-8. On the **New integration dataset** blade, with the **Azure** tab selected, enter **synapse** as a search term and select the **Azure Synapse Analytics (formerly SQL DW)** item. Select **Continue**.
+8. On the **New integration dataset** blade, with the **Azure** tab selected, enter **synapse** as a search term and select the **Azure Synapse dedicated SQL pool** item. Select **Continue**.
   
 9. On the **Set properties** blade, set the field values to the following, then select **OK**.
 
